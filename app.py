@@ -3,7 +3,7 @@ import numpy as np
 import scipy.signal as signal
 import plotly.graph_objects as go
 import librosa
-import io
+import io 
 
 # --- 1. DIGITAL SIGNAL PROCESSING (THE MATH) ---
 def create_filterbank(num_channels, fs, low_freq=200, high_freq=8000):

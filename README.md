@@ -4,8 +4,6 @@ An interactive simulation of how a cochlear implant processes sound. Upload any 
 
 **Live demo:** _add your Streamlit Cloud URL here once deployed_
 
-![Electrodogram screenshot](examples/screenshot.png)
-_(add a screenshot of the heatmap here after your first run)_
 
 ## Why this project
 
@@ -65,6 +63,3 @@ cochlear-implant-simulator/
 - Uploads are capped at 25 MB (configurable in `.streamlit/config.toml`) to keep processing responsive on free-tier hosting.
 - Possible extensions: adding an n-of-m channel selection strategy (like Advanced Combination Encoder), pulse-rate visualization, or a side-by-side comparison between two electrode-count settings.
 
-## License
-
-MIT — see [LICENSE](LICENSE).

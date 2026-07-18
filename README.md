@@ -2,8 +2,6 @@
 
 An interactive simulation of how a cochlear implant processes sound. Upload any `.wav` file and watch it get split across a bank of electrodes, mimicking the way a real implant's sound processor drives an electrode array along the tonotopic map of the cochlea.
 
-**Live demo:** _add your Streamlit Cloud URL here once deployed_
-
 
 ## Why this project
 
